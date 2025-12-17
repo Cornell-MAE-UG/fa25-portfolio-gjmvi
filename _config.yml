@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : James Montague
 description              : Your Name - Projects and CV 
-baseurl                  : "/_projects/Wind turbine Blade Design Project/"  
+baseurl                  : "/fa25-portfolio-gjmvi_projects/Wind turbine Blade Design Project/"  
 
 # Theme and Style
 theme: jekyll-theme-minimal
