@@ -6,20 +6,23 @@ technologies: [MATLAB, SolidWorks]
 image: /assets/images/function-graph.png
 ---
 
+Project Overview:
+This project focused on the design, analysis, and experimental validation of a small-scale horizontal-axis wind turbine blade intended for wind-tunnel testing at a fixed rotational speed. The primary objective was to maximize the coefficient of power while satisfying strict geometric, operational, and structural constraints imposed by the laboratory setup. The blade was designed to operate at low Reynolds numbers and within safety limits on rotational speed, torque, and material stress, making it a realistic test case for applying aerodynamic theory to a constrained experimental system.
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Design Process:
+The blade geometry was developed using Blade Element Momentum (BEM) theory, combining actuator disk momentum relations with sectional airfoil aerodynamics to determine optimal chord and twist distributions along the span. A target tip-speed ratio of approximately 5 was selected to maximize power extraction, and the Selig 7075 airfoil was chosen due to its strong lift-to-drag performance at low Reynolds numbers. Key design assumptions included a constant angle of attack that maximized lift-to-drag ratio and a uniform Reynolds number of 50,000. Structural calculations were then performed to verify that bending stresses at the blade root remained below material limits under worst-case operating conditions.
 
+Testing Summary
+The blade geometry was developed using Blade Element Momentum (BEM) theory, combining actuator disk momentum relations with sectional airfoil aerodynamics to determine optimal chord and twist distributions along the span. A target tip-speed ratio of approximately 5 was selected to maximize power extraction, and the Selig 7075 airfoil was chosen due to its strong lift-to-drag performance at low Reynolds numbers. Key design assumptions included a constant angle of attack that maximized lift-to-drag ratio and a uniform Reynolds number of 50,000. Structural calculations were then performed to verify that bending stresses at the blade root remained below material limits under worst-case operating conditions.
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Personal Contribution:
+While I contributed to all aspects of the design project, I was specifically responsible for the data analysis, considerations, and conclusion. This also included the final project for the project EOS deliverable.
 
 
+Figure 1: Optimized model of turbine blade on MATLAB.
+
+
+Figure 2: CAD render of turbine hub geometry.
+
+
+Figure 3: Power curves of 5 wind velicity integers 3-7m/s.
