@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Wind Turbine Blade Design
+description: Group CLass Project
+technologies: [MATLAB, SolidWorks]
 image: /assets/images/function-graph.png
 ---
 
