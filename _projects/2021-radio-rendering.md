@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: MAE 2250 ODP - "No-Fly-Zone"
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
