@@ -8,7 +8,7 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## Overview
 
-This project was completed as part of MAE 2250 and focuses on the design and rendering of a complex object using advanced CAD tools. The goal was to develop a realistic model, communicate design intent, and iterate through multiple stages from concept to final deliverable.
+This project was completed as part of MAE 2250 and focuses on the design and rendering of a complex object using advanced CAD tools. The work is presented through three key milestones: the initial client pitch, the functional prototype, and the final client report.
 
 ---
 
@@ -23,35 +23,21 @@ This project was completed as part of MAE 2250 and focuses on the design and ren
 ## Client Pitch (O3)
 <a id="client-pitch"></a>
 
-The goal of the client pitch was to identify the problems with the SLFs, and to propose detailed solutions to the client.
-
-**Problem:**  
-Describe
-
-**Proposed Solution:**  
-Explain.
-
+<iframe src="{{ '/assets/pdfs/client-pitch.pdf' | relative_url }}" width="100%" height="750px"></iframe>
 
 ---
 
 ## Functional Prototype (O5)
 <a id="functional-prototype"></a>
 
-The functional prototype stage.
+<iframe src="{{ '/assets/pdfs/prototype.pdf' | relative_url }}" width="100%" height="750px"></iframe>
 
-**Design Process:**  
-Describe 
+---
 
-**Key Components:**  
-- Component 1  
-- Component 2  
-- Component 3  
+## Client Report
+<a id="client-report"></a>
 
-**Iteration & Improvements:**  
-Explain what you changed from the initial concept and why.
-
-![CAD Rendering]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: style="width: 300px;"}
-
+<iframe src="{{ '/assets/pdfs/report.pdf' | relative_url }}" width="100%" height="850px"></iframe>
 ---
 
 ## Client Report
