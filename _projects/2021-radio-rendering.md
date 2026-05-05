@@ -23,7 +23,7 @@ This project was completed as part of MAE 2250 and focuses on the design and ren
 ## Client Pitch (O3)
 <a id="client-pitch"></a>
 
-<iframe src="{{ '/assets/pdfs/client-pitch.pdf' | relative_url }}" width="100%" height="750px"></iframe>
+<iframe src="/assets/pdfs/client-pitch.pdf" width="100%" height="750px"></iframe>
 
 ---
 
