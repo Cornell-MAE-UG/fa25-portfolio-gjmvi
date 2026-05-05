@@ -6,20 +6,82 @@ technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+## Overview
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+This project was completed as part of MAE 2250 and focuses on the design and rendering of a complex object using advanced CAD tools. The goal was to develop a realistic model, communicate design intent, and iterate through multiple stages from concept to final deliverable.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+---
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+## Project Milestones
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+- [Client Pitch (O3)](#client-pitch)
+- [Functional Prototype (O5)](#functional-prototype)
+- [Client Report](#client-report)
 
-I was inspired by this old radio when I made this rendering:
+---
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+## Client Pitch (O3)
+<a id="client-pitch"></a>
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+The goal of the client pitch was to identify the problems with the SLFs, and to propose detailed solutions to the client.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+**Problem:**  
+Describe
+
+**Proposed Solution:**  
+Explain.
+
+
+---
+
+## Functional Prototype (O5)
+<a id="functional-prototype"></a>
+
+The functional prototype stage.
+
+**Design Process:**  
+Describe 
+
+**Key Components:**  
+- Component 1  
+- Component 2  
+- Component 3  
+
+**Iteration & Improvements:**  
+Explain what you changed from the initial concept and why.
+
+![CAD Rendering]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: style="width: 300px;"}
+
+---
+
+## Client Report
+<a id="client-report"></a>
+
+### Final Solution
+
+The final design .
+
+### How It Works
+
+Explain 
+
+### How It Is Used
+
+Describe 
+
+### Conclusion
+
+Summarize 
+
+### Next Steps
+
+If given more time, the following improvements would be made:
+- Improvement 1  
+- Improvement 2  
+- Improvement 3  
+
+---
+
+## Additional Images
+
+![Old Radio Inspiration]({{ "/assets/images/old-radio.jpg" | relative_url }}){: style="width: 300px;"}
