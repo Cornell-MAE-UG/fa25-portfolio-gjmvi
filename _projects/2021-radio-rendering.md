@@ -38,36 +38,10 @@ This project was completed as part of MAE 2250 and focuses on the design and ren
 <a id="client-report"></a>
 
 <iframe src="{{ '/assets/pdfs/report.pdf' | relative_url }}" width="100%" height="850px"></iframe>
----
 
-## Client Report
-<a id="client-report"></a>
-
-### Final Solution
-
-The final design .
-
-### How It Works
-
-Explain 
-
-### How It Is Used
-
-Describe 
-
-### Conclusion
-
-Summarize 
-
-### Next Steps
-
-If given more time, the following improvements would be made:
-- Improvement 1  
-- Improvement 2  
-- Improvement 3  
 
 ---
 
-## Additional Images
+## Additional Code
 
 ![Old Radio Inspiration]({{ "/assets/images/old-radio.jpg" | relative_url }}){: style="width: 300px;"}
