@@ -26,8 +26,6 @@ sass:
 permalink: /:projects/:names/
 
 collections:
-  pages:
-    output: true
   projects:
     output: true
 
