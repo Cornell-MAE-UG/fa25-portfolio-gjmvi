@@ -6,8 +6,8 @@ permalink: /projects/
 
 ## Projects
 
-{% for project in site.projects %}
-  <p>
-    <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-  </p>
-{% endfor %}
+### MAE 2250 Project – No Fly Zone
+
+This project focuses on designing a solution to mitigate the impact of the spotted lantern fly using a passive trapping system.
+
+[View Full Project](/fa25-portfolio-gjmvi/projects/MAE2250/)
