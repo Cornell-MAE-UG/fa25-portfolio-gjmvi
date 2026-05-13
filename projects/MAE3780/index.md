@@ -1,9 +1,9 @@
 ---
 layout: default
-title: MAE3870
+title: MAE3780
 ---
 
-# MAE 3870 Project
+# MAE 3780 Project
 
 ## Overview
 
